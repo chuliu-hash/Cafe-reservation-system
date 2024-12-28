@@ -13,7 +13,7 @@ import java.util.ArrayList;
 public class ToolFunction {
     static String url = "jdbc:mysql://localhost:3306/coffee_system";
     static String user = "root";
-    static String passwd = "WA2114009";
+    static String passwd = "123456";
     static int userid = 1;
 
     //检查数据库连接性
